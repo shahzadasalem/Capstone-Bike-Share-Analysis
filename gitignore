@@ -1,0 +1,21 @@
+# Original and processed Divvy datasets (large; regenerate locally)
+*.csv
+*.zip
+*.parquet
+
+# Notebook checkpoints and Python caches
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+
+# Local virtual environments and environment secrets
+.venv/
+venv/
+.env
+.env.*
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

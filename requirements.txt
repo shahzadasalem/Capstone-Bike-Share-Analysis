@@ -1,0 +1,6 @@
+# Direct third-party dependency used by all_trips_v2.ipynb
+pandas>=2.0,<3.0
+
+# JupyterLab is an optional notebook interface; install separately if needed:
+# pip install jupyterlab
+# Python 3.12 was used for the saved notebook run.
